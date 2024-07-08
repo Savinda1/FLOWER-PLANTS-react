@@ -1,0 +1,35 @@
+.rightpanebox{
+    flex: 3;
+    overflow-y: scroll;
+    height: 690PX;
+}
+::-webkit-scrollbar{
+    width: 2px;}
+
+.sponser{
+    font-size: 30px;
+    color: rgb(25, 155, 175);
+}
+
+.adimg{
+    width: 98%;
+    height: 98%;
+    margin-top:20px;
+   
+}
+.Clik{
+    margin-top:10px;
+    border-radius: 20%;
+    background-color: rgb(13, 243, 13);
+    cursor: pointer;
+}
+.text{
+    margin-top:10px;
+    font-size: 20px;
+    color: rgb(5, 2, 2);
+    font-weight: bold;
+}
+.order{
+    width: 98%;
+    height: 98%; 
+}

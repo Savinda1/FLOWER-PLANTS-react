@@ -1,0 +1,59 @@
+.addpostpic{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.addpost{
+    width: 95%;
+    height: 150px;
+    margin:15px;
+    border: 0px solid rgba(28,110,164,0.2);
+    -webkit-box-shadow: 5px 5px 13px 5px rgba(0,0,0,0.14); 
+    box-shadow: 5px 5px 13px 5px rgba(0,0,0,0.14);}
+
+.addpostinput{
+   width:85%;
+   border: none;
+   margin-left: 10px;
+}
+.line{
+    margin: 10px;
+}
+/*none tha out line*/
+.addpostinput:focus{
+outline: none;
+}
+
+.addpostcontoiner{
+    padding: 15px;
+}
+
+.addposttop{
+    display: flex;
+    
+}
+
+.addpostoptions{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+
+}
+
+.addpostoption{
+    display: flex;
+    align-items: center;
+    margin-right:34px ;
+    cursor: pointer;
+}
+
+.button{
+    border: none;
+    padding: 10px;
+    border-radius:10px;
+    margin-left: 80px;
+    cursor: pointer;
+    background-color: blue;
+}
